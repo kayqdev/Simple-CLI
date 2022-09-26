@@ -37,5 +37,3 @@ while True:
     except FileExistsError:
         print(colored('Não é possível criar uma pasta sem nome.', 'red'))
         
-    if cmd == 'github':
-        print(colored(''))

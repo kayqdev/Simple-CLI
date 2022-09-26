@@ -13,7 +13,7 @@
     
     ╰— **mkdir** - Criar uma nova pasta no caminho que você informar.
 
-    ╰— **sair** - Encerra o programa.
+    ╰— *sair* - Encerra o programa.
 
 
 Por enquanto a **Simple CLI** não está pública para download, mas em breve será possível instalar e usar como quiser.
